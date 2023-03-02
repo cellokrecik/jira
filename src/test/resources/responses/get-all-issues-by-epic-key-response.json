@@ -1,0 +1,26 @@
+{
+  "expand": "schema,names",
+  "startAt": 0,
+  "maxResults": 50,
+  "total": 2,
+  "issues": [
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "26966",
+      "self": "https://ocadotech.atlassian.net/rest/agile/1.0/issue/26966",
+      "key": "IFZ-614",
+      "fields": {
+        "customfield_11000": "M"
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "26966",
+      "self": "https://ocadotech.atlassian.net/rest/agile/1.0/issue/26966",
+      "key": "IFZ-614",
+      "fields": {
+        "customfield_11000": "S"
+      }
+    }
+  ]
+}

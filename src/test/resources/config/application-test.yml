@@ -1,0 +1,3 @@
+wiremock:
+  url: localhost
+  port: 9561
